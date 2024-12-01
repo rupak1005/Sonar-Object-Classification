@@ -44,12 +44,9 @@ Input Data: (0.0272, 0.0378, 0.0488, ..., 0.0103)
 Output: The object is a Mine
 
 **Confusion Matrix**
-```
-Actual/Predicted	Rock	Mine
-Rock	23	1
-Mine	2	25
+![image](https://github.com/user-attachments/assets/808e6a47-4fbc-44f5-a2f4-b1b63ee4b969)
 
-```
+
 **Contributing**
 
 Feel free to fork the repository and submit a pull request with improvements or suggestions!
